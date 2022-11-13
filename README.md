@@ -1,10 +1,14 @@
 ## Funcionalidades
 
+- Iniciar sesión: En esta funcionalidad se prueban escenarios relacionados con iniciar sesión correctamente y navegar a otras partes de la aplicación.
+
 - Editar Cuenta Administrador: En esta funcionalidad se integraron los escenarios positivos y negativos correspondientes a la edición del perfil de una cuenta de administrador. 
 
 - Creación de Post: En esta funcionalidad se probaron escenarios relacionados con la creación de post y su presencia en la listas de drafts, scheduled y published. 
 
 - Creación de Tags: En esta funcionalidad se probaron escenarios de la creación de tags para post.
+
+- Creación de Members: En esta funcionalidad se prueba la correcta creación de members.
 
 
 
